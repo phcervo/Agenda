@@ -16,21 +16,25 @@ Esse projeto busca implementar uma agenda de contatos que possa ser utilizada em
 
 ### Requisito RU4 - Sobrenome
 
-### Requisito RU5 - Celular
+### Requisito RU5 - CodArea
 
-### Requisito RU6 - Fixo
+### Requisito RU6 - Celular
 
-### Requisito RU7 - Estado
+### Requisito RU7 - Fixo
 
-### Requisito RU8 - Cidade
+### Requisito RU8 - Estado
 
-### Requisito RU9 - Logradouro (rua, praça, ...)
+### Requisito RU9 - Cidade
 
-### Requisito RU10 - Nome do Logradouro
+### Requisito RU10 - Bairro
 
-### Requisito RU11 - Número
+### Requisito RU11 - Logradouro (rua, praça, ...)
 
-### Requisito RU12 - Complemento
+### Requisito RU12 - Nome do Logradouro
+
+### Requisito RU13 - Número
+
+### Requisito RU14 - Complemento
 
 
 ## Requisitos de sistema
